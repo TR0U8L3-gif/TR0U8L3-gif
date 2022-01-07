@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hi there, I'm Radek 
+## Hi there 👋 I'm Radek 
 ### I'm a computer science student, robotics maniac and developer!!!
 
 - 📖 I’m currently learning everything 
