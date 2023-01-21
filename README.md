@@ -22,7 +22,7 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
 <img align="left" alt="Cpp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />
-<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
+<img align="left" alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
