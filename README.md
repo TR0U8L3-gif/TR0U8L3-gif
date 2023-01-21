@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Radek 
-### I'm a computer science student, robotics maniac and developer!!!
+### I'm a computer science student, robotics maniac and flutter developer!!!
 
 - 📖 I’m currently learning everything 
-- 🔧 Just joined "Argo" Robotics science club
-- 🤯 Struggling with ROS for a school Mars rover project
+- 🎓 Student at the Bialystok University of Technology
+- 🔧 Always wanted to build a smart electric scooter but I don't know what "smart scooter" means...
+- 🤯 Exploring new possibilities of Dart language
 - 🤝 I'm looking to collaborate with other people or companies 
-- ✨ 2022 goal: Learning ROS to perfection
+- ✨ 2023 goal: To learn flutter to perfection
 - 🤔 Fun fact: Cows produce more milk when they listen to gentle music
 - 🤗 Interesting conclusions: You should listen to gentle music to be more productive or give more milk...
 
@@ -18,10 +19,10 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
 <img align="left" alt="Cpp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
-<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
