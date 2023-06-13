@@ -35,13 +35,11 @@
 </picture>
 <br>
 
-<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TR0U8L3-gif&theme=nord&hide_border=true">
   <img alt="Leetcode-Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TR0U8L3-gif&theme=default&hide_border=true6">
 </picture>
 <br>
---->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TR0U8L3-gif&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
