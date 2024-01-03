@@ -4,10 +4,10 @@
 
 ## 📖 About Me:
 
-* ✨ 2023 goal: To learn flutter to perfection
+* ✨ 2024 goal: To get a Flutter Dev job/internship
 * 📖 I’m currently learning everything
 * 🎓 Student at the Bialystok University of Technology
-* 🤯 Exploring new possibilities of Dart language
+* 🤯 Exploring TDD, Clean Architecture and SOLID ~~life~~ principles  
 * 🤔 Fun fact: Cows produce more milk when they listen to gentle music
 * 🤗 Interesting conclusions: You should listen to gentle music to be more productive or give more milk...
 
