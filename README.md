@@ -4,7 +4,7 @@
 
 ## 📖 About Me:
 
-* ✨ 2024 goal: To get a Flutter Dev job/internship
+* ✨ 2024 goal: To get a Flutter Dev job/internship (accomplished both 🤙)
 * 📖 I’m currently learning everything
 * 🎓 Student at the Bialystok University of Technology
 * 🤯 Exploring TDD, Clean Architecture and SOLID ~~life~~ principles  
