@@ -4,8 +4,8 @@
 
 ## 📖 About Me:
 
-* ✨ 2024 goal: To get a Flutter Dev job/internship (accomplished both 🤙)
-* 📖 I’m currently learning everything
+* ✨ 2025 goal: refactor Workai mobile app 
+* 📖 I’m currently learning everything about flutter
 * 🎓 Student at the Bialystok University of Technology
 * 🤯 Exploring TDD, Clean Architecture and SOLID ~~life~~ principles  
 * 🤔 Fun fact: Cows produce more milk when they listen to gentle music
