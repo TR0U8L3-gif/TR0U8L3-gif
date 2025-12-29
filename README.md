@@ -4,9 +4,9 @@
 
 ## 📖 About Me:
 
-* ✨ 2025 goal: refactor Workai mobile app 
-* 📖 I’m currently learning everything about flutter
-* 🎓 Student at the Bialystok University of Technology
+* ✨ 2026 goal: understand BRD, PRD, ADR and other strange acronyms 
+* 📖 I’m currently learning everything about SDLC and flutter <3
+* 🎓 I’ve completed my engineering degree in Computer Science and I’m considering a Master’s next
 * 🤯 Exploring TDD, Clean Architecture and SOLID ~~life~~ principles  
 * 🤔 Fun fact: Cows produce more milk when they listen to gentle music
 * 🤗 Interesting conclusions: You should listen to gentle music to be more productive or give more milk...
