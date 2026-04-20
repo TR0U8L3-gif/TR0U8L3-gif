@@ -28,6 +28,7 @@
 [<img style="width: 36px; height: 36px; " src ="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">](https://www.facebook.com/Radek.Sienkiewicz.20/)
 
 ## 👀 Some Stats:
+[![Github Readme Codewars](https://www.codewars.com/users/TR0U8L3-gif/badges/large)](https://www.codewars.com/users/TR0U8L3-gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/rsienkiewicz88?theme=nord&border=0&radius=6">
